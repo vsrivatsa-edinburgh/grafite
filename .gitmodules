@@ -12,7 +12,7 @@
 	url = https://github.com/Range-Filter/REncoder
 [submodule "lib/sux"]
 	path = lib/sux
-	url = https://github.com/marcocosta97/sux
+	url = https://github.com/vsrivatsa-edinburgh/sux
 [submodule "lib/sdsl-lite"]
 	path = lib/sdsl-lite
 	url = https://github.com/marcocosta97/sdsl-lite
